@@ -736,6 +736,11 @@ const list: List = [
 				locations: ["NYC", "LA", "London", "Paris"],
 				keywords: "one-stop shop for pop up experiences",
 			},
+			"Studio Daguet": {
+				link: "https://www.daguet-staging.com/",
+				locations: ["Nantes", "Paris"],
+				keywords: "Staging stories. Stages, theme parks, destinations, monuments.",
+			},
 		},
 	},
 	{
@@ -903,11 +908,6 @@ const list: List = [
 				link: "https://www.superuber.com/",
 				locations: ["Rio de Janeiro", "São Paulo"],
 				keywords: "experiences that blend art, technology, architecture and design",
-			},
-			"Studio Daguet": {
-				link: "https://www.daguet-staging.com/",
-				locations: ["Nantes", "Paris"],
-				keywords: "Staging stories. Theatres, theme parks, destinations, monuments.",
 			},
 			"The Mill": {
 				link: "https://www.themill.com/",
