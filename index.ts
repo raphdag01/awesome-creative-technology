@@ -739,7 +739,7 @@ const list: List = [
 			"Studio Daguet": {
 				link: "https://www.daguet-staging.com/",
 				locations: ["Nantes", "Paris"],
-				keywords: "Staging stories. Stages, theme parks, destinations, monuments.",
+				keywords: "Staging stories. Live shows, theme parks, destinations, monuments.",
 			},
 		},
 	},
