@@ -904,6 +904,11 @@ const list: List = [
 				locations: ["Rio de Janeiro", "São Paulo"],
 				keywords: "experiences that blend art, technology, architecture and design",
 			},
+			"Studio Daguet": {
+				link: "https://www.daguet-staging.com/",
+				locations: ["Nantes", "Paris"],
+				keywords: "Staging stories. Theatres, theme parks, destinations, monuments.",
+			},
 			"The Mill": {
 				link: "https://www.themill.com/",
 				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
